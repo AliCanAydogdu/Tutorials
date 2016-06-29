@@ -2,8 +2,6 @@ package codewithjacob;
 
 import java.util.Arrays;
 import java.util.Scanner;
-import java.util.StringTokenizer;
-import java.util.jar.Pack200;
 
 /**
  * Created by Jacob Ilin on 6/28/16.
